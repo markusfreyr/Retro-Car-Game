@@ -1,0 +1,26 @@
+track = [
+  {
+    "curvature": 0,
+    "distance": 10
+  },
+  {
+    "curvature": 0,
+    "distance": 100
+  },
+  {
+    "curvature": -1,
+    "distance": 200
+  },
+  {
+    "curvature": 0,
+    "distance": 200
+  },
+  {
+    "curvature": 1,
+    "distance": 200
+  },
+  {
+    "curvature": 0,
+    "distance": 10
+  }
+];
